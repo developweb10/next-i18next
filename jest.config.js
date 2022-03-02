@@ -1,4 +1,4 @@
-module.exports = {
+﻿module.exports = {
   automock: false,
   collectCoverage: true,
   collectCoverageFrom: [
@@ -18,4 +18,4 @@ module.exports = {
     '<rootDir>/dist/',
     '<rootDir>/node_modules/',
   ],
-}
+};
